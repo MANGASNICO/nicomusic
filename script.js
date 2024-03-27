@@ -17,10 +17,10 @@ const listadoCartas = [
     },
     {
         id: 3,
-        nombre: "travis scott",
-        imagen: "./imagenes/travisscott.jpeg",
-        descripcion: "TOP 3: who? what! ",
-        url:"https://youtu.be/gLkQA7iLNUk"
+        nombre: "YSY A",
+        imagen: "./imagenes/YSY.A.jpeg",
+        descripcion: "TOP 3: linaje! ",
+        url:"https://youtu.be/3z4xVMDBduE"
     },
     {
         id: 4,
