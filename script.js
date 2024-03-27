@@ -36,6 +36,13 @@ const listadoCartas = [
         descripcion: "TOP 5: superman' ",
         url:"https://youtu.be/8kYkciD9VjU"
     },
+    {
+        id: 6,
+        nombre: "LA 12",
+        imagen: "./imagenes/la12.jpg",
+        descripcion: "TOP 6: cuando vas a la cancha' ",
+        url:"https://youtu.be/aGR8_tTaWqg"
+    },
 ]
 /* Selección de los NODOS HTML (etiquetas/elementos html)*/
 const contenedorCartas = document.querySelector(".listadoCartas")

@@ -79,3 +79,9 @@ header, footer{
     gap: 10px;
     padding: 10px;
 }
+.card .info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
